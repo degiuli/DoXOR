@@ -1,0 +1,14 @@
+[package]
+name = "DoXOR"
+version = "1.0.0"
+authors = ["Fábio Lourenção De Giuli <degiuli@gmail.com>"]
+description = "XOR Content Checking"
+include = ["src/**/*", "Cargo.toml"]
+publish = false
+homepage = "https://github.com/degiuli/DoXOR"
+repository = "https://github.com/degiuli/DoXOR"
+readme = "README.md"
+edition = "2021"
+license = "MIT"
+
+[dependencies]
